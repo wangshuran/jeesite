@@ -1,3 +1,5 @@
+## 关注 JeeSite 4.0 请移步: <https://gitee.com/thinkgem/jeesite4>
+
 # JeeSite 企业信息化快速开发平台
 
 ## 平台简介
@@ -98,10 +100,6 @@ JeeSite 提供了常用工具进行封装，包括日志工具、缓存工具、
 5. 密码加密：登录用户密码进行SHA1散列加密，此加密方法是不可逆的。保证密文泄露后的安全问题。
 6. 强制访问：系统对所有管理端链接都进行用户身份权限验证，防止用户直接填写url进行访问。
 
-## 演示地址
-
-* <http://demo.jeesite.com/jeesite>  &nbsp; 用户名：thinkgem &nbsp; 密码：admin
-
 ## 快速体验
 
 1. 具备运行环境：JDK1.6+、Maven3.0+、MySql5+或Oracle10g+。
@@ -123,11 +121,10 @@ JeeSite 提供了常用工具进行封装，包括日志工具、缓存工具、
 
 ## 如何交流、反馈、参与贡献？
 
-* QQ Group：127515876 &nbsp; 209330483 &nbsp; 223507718 &nbsp; 苹果版QQ若不能加入请使用手机QQ最新版
-* E-mail：thinkgem@163.com
+* QQ 群号： `127515876`、`209330483`、`223507718`、`709534275`、`730390092`、`183903863(外包)`
 * GitHub：<https://github.com/thinkgem/jeesite>
-* 开源中国：<http://git.oschina.net/thinkgem/jeesite>
-* 官方网址：<http://jeesite.com>  论坛：<http://bbs.jeesite.com>
+* 开源中国：<https://gitee.com/thinkgem/jeesite>
+* 官方网址：<http://jeesite.com>  论坛：<http://www.jeesite.net>
 * 支持JeeSite发展：（加我好友）支付宝：thinkgem@163.com &nbsp; 微信：thinkgem
 
 一个人的个人能力再强，也无法战胜一个团队，希望兄弟姐妹的支持，能够贡献出自己的部分代码，参与进来共同完善它(^_^)。
